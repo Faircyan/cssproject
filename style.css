@@ -1,0 +1,138 @@
+body {
+  background-color:white;
+  color: #007caa;
+  margin: 0 auto;
+  padding: 10px 0;
+  text-align:center;
+}
+h1 {
+  margin-top:40px;
+  text-align:center;
+  border: solid 2px black;
+  font-size: 200%;
+  background-color: yellow;
+  display: inline-block;
+  padding: 5px;
+}
+h2{
+  color: #b11919;
+  display: inline-block;
+  font-size: 31px;
+}
+.header-text{
+  width:250px;
+  margin:  auto;
+}
+.hamburger{
+  padding-top:0px;
+  max-width:300px;
+  margin:0 auto;
+  max-height:172px;
+  position:relative;
+}
+.hamburgerbot{
+  max-width:300px;
+  margin:0 auto;
+}
+.cheese{
+  background-color: #edb91f;
+  height: 20px;
+  width: 275px;
+  border-bottom: 2px solid rgba(0,0,0,0.15);
+  display: inline-block;
+  margin-top: 0;
+}
+.cheese2{
+  background-color: #edb91f;
+  height: 20px;
+  width: 275px;
+  display: inline-block;
+  margin-top: 0;
+}
+.meatball{
+  background-color: #620606;
+  width: 50px;
+  height: 40px;
+  display: inline-block;
+  border:solid 6px #620606;
+  border-radius: 30px;
+  vertical-align:top;
+}
+.tomato{
+  background-color: #b70404;
+  width:250px;
+  height:20px;
+  border-bottom: 2px solid rgba(0,0,0,0.15);
+  display: inline-block;
+  
+}
+.topbread{
+  
+  background-color: #e5b05a;
+  width:300px;
+  height:50px;
+  border-radius: 20px;
+  border-top-right-radius: 100px;
+  border-top-left-radius: 100px;
+  border-bottom: solid 10px rgba(0,0,0,0.15);
+
+}
+.botbread{
+  background-color: #e5b05a;
+  width:300px;
+  height:30px;
+  border-radius: 20px;
+  border-bottom-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-top: solid 7px rgba(0,0,0,0.15);
+}
+.beef{
+  margin-top: 50px;
+  background-color: #ad370b;
+  height: 30px;
+  width: 275px;
+  border-radius:10px; 
+  border-bottom: 2px solid rgba(0,0,0,0.15);
+  display: inline-block;
+}
+.dish{
+  background-color: #547295;
+  height: 20px;
+  width: 400px;
+  border-bottom: 4px solid rgba(0,0,0,0.15);
+  display: inline-block;
+  margin-top: 0;
+  display: inline-block;
+}
+.pickle{
+  background-color: #25832d;
+  width:250px;
+  height:25px;
+  border-radius: 20px;
+  border-bottom-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom: solid 11px rgba(0,0,0,0.15);
+  display: inline-block;
+}
+.onion{
+  background-color: #d37777;
+  width: 220px;
+  border:dotted 10px #f0c4e4;
+  border-bottom: 0px;
+  display: inline-block;
+}
+.melted{
+    width: 0px;
+    height: 0px;
+  border-color:#edb91f transparent transparent transparent;
+    border-style: solid;
+    border-width: 20px 40px;
+  display: inline-block
+  
+}
+  
+
+
+
+
+
